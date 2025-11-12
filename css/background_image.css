@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    background-image: url("../images/img1.webp");
+     background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1{
+     color: black;
+}

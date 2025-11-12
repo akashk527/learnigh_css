@@ -1,0 +1,14 @@
+.flex-items{
+    background-color: blueviolet;
+    width: 200px;
+    height: 150px;
+    margin: 10px;
+    color: white;
+    font-size: 50px;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
