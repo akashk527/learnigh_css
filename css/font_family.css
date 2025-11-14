@@ -1,0 +1,14 @@
+p{
+    font-size: 20px;
+    
+}
+.f_family1{
+    font-family: monospace;
+    font-weight: 100;
+}
+.f_family2{
+    font-family: cursive;
+}
+.f_family3{
+    font-family: 'Courier New', Courier, monospace;
+}
