@@ -1,0 +1,19 @@
+div{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    position: relative;
+    animation: moving;
+    animation-duration: 10s;
+    animation-iteration-count: 2;
+    /* animation-direction: reverse; */
+    animation-delay: s;
+
+}
+@keyframes moving{
+    0% {background-image:url("../images/img1.webp");left: 0px;top: 0px;}
+    25% {background-color: yellow;left: 300px; top: 0px;}
+    50% {background-color: green; left: 300px;top: 300px;}
+    75% {background-color: darkmagenta;left: 0px;top: 300px;}
+    100% {background-color: red;left: 0px;top: 0px;}
+}
